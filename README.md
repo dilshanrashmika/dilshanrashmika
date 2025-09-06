@@ -5,7 +5,6 @@
 </div>
 <!--  -->
 <picture> <img align="right" src="https://media.tenor.com/a1KmFB5I5hgAAAAM/typing-zero-contact.gif" width = 250px></picture>
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Cloud+Security+Engineer;Network+Administrator;Microsoft+Azure+Engineer;Computer+Hardware+Software+and+Networking"></a>
 </p>
