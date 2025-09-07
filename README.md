@@ -9,6 +9,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Cloud+Security+Engineer;Network+Administrator;Microsoft+Azure+Engineer;Computer+Hardware+Software+and+Networking"></a>
 </p>
 <h3 align="left">   My Stats :</h3>
+
+![GitHub followers](https://img.shields.io/github/followers/dilshanrashmika?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/dilshanrashmika?style=social)<img src="https://komarev.com/ghpvc/?username=dilshanrashmika" alt="" />
+
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=dilshanrashmika&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me  </h3>
