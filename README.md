@@ -42,7 +42,7 @@
 
 
 <p align = "center">
-	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamNrbDM1bnd4N205czFxY202dmdzd2R1MzNtcnRxZm9hY2YzNWo4eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NEmoHeRrWFvdO4sNaY/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamNrbDM1bnd4N205czFxY202dmdzd2R1MzNtcnRxZm9hY2YzNWo4eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NEmoHeRrWFvdO4sNaY/giphy.gif" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <div align="center" width="100">
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
   alt="footer" />
