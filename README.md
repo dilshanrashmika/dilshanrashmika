@@ -31,6 +31,12 @@
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
+<h3 align="left">  Github Profile Summary Card :</h3>
+ 
+ <div align=center>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dilshanrashmika&theme=github_dark)
+  
 
 
 
