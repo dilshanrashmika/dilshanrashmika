@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1408d0,50:0860d0,100:08c4d0,100:f7ffff&text=Hi%20I'm%20Dilshan%20Rashmika&fontSize=50&animation=fadeIn&fontColor=f7ffff&fontAlignY=50"
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1408d0,50:0860d0,75:08c4d0,100:00CCCC&text=Hi%20I'm%20Dilshan%20Rashmika&fontSize=50&fontColor=f7ffff&fontAlignY=50"
   alt="header"/>
 </div>
 <!--  -->
