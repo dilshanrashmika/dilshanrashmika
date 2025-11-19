@@ -18,7 +18,7 @@
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me  </h3>
 </div>
 <div align="center">
-  <img src="https://github.com/loryanstrant/MicrosoftCloudLogos/blob/main/Microsoft%20logo.png?raw=true)" height="40" alt="kubernetes logo"  />
+  <img src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4.png?raw=true)" height="40" alt="kubernetes logo"  />
   <img src="https://github.com/loryanstrant/MicrosoftCloudLogos/blob/main/Azure/Azure.png?raw=true)" height="40" alt="kubernetes logo"  />
   <img src="https://github.com/loryanstrant/MicrosoftCloudLogos/blob/main/Copilot%20(not%20M365)/Copilot%20(general)%20-%20250x250.png?raw=true)" height="52" alt="kubernetes logo"  />
   <img src="https://github.com/loryanstrant/MicrosoftCloudLogos/blob/main/Microsoft%20365/Microsoft%20365%20Apps/Microsoft%20365%20Apps%20logo.png?raw=true)" height="40" alt="kubernetes logo"  />
