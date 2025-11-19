@@ -27,6 +27,7 @@
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.63.0/files/dark/openai.png?raw=true)" height="40" alt="kubernetes logo"  />
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/meta-color.png?raw=true)" height="40" alt="kubernetes logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png?raw=true)" height="40" alt="kubernetes logo"  />
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/500px-Facebook_logo_%28square%29.png?raw=true)" height="40" alt="kubernetes logo"  />
 </div>
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
