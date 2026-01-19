@@ -32,7 +32,7 @@
 	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmOQT83dtIlgCmJiM8X08gAFfHSDkuxBXA1Q&s.png?raw=true)" height="40" alt="kubernetes logo"  />
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/250px-X_logo.jpg.png?raw=true)" height="40" alt="kubernetes logo"  />
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tiktok_icon.svg/2048px-Tiktok_icon.svg.png.png?raw=true)" height="40" alt="kubernetes logo"  />
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Google_Gemini_logo_2025.svg/2560px-Google_Gemini_logo_2025.svg.png.png?raw=true)" height="40" alt="kubernetes logo"  />
+	<img src="https://logos-world.net/wp-content/uploads/2025/02/Google-Gemini-Logo.png?raw=true)" height="40" alt="kubernetes logo"  />
 </div>
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
